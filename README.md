@@ -17,15 +17,15 @@ For users who use first start using *TINA*, it is necessary to utilize a "macro"
 
 # II. FILE DESCRIPTIONS
 
-## *TINA Initiation Macro*
+*TINA Initiation Macro*
 
 ***macro.cls*** — This macro will set up *TINA* windows and settings in order to MANUALLY LANDMARK samples. The user may begin manually landmarking samples once this macro has been run. At the end of the script, this macro automatically fills in the `Macro Window` with the filepath pointing to the `Auto-Landmarking Setup` macro (included). If the correct line is un-commented, it will also run the second macro as well. Therefore (depending on the user's preference at the time), it may be beneficial to comment out that particular line in order to stay in the “Manual Landmarking Mode”, without running the next macro.
 
-## *TINA Auto-Landmarking Setup*
+*TINA Auto-Landmarking Setup*
 
 ***macroauto.cls*** — This macro will set up TINA windows and settings in order to create Global Registration files, or `G-Reg` files, to use for AUTOMATIC LANDMARKING. The macro automatically fills in the Macro window with the filepath for the Automatic Landmarking Modules macro, which will tell TINA where all the samples are to landmark using the database and `G-Reg` files. Note that this macro does not automatically landmark samples, it merely prepares samples for automatic landmarking.
 
-## *TINA Auto-Landmarking Modules*
+*TINA Auto-Landmarking Modules*
 
 ***macromodule.cls*** — This file includes examples of the G-Reg "modules" that are read by *TINA* as it 
 The `G-Reg` files should be prepared beforehand for each sample (eg. `GR_0000`) and placed in the `AutoGR` folder. The module should be edited for the particular `DCM` and `G-Reg` file, and then copied/pasted for each G-Reg file that is being used in this macro. It is only necessary to edit what is in the “Auto-Landmark Modules” zone.
