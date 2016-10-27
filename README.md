@@ -1,12 +1,11 @@
 # I. GENERAL OVERVIEW
 
 ## *File List*
-```
-macro.cls         - TINA initiation macro.
-macroauto.cls     - TINA auto-landmarking setup macro.
-macromodule.cls   - TINA auto-landmarking 'module' setup example.
-README.md         - This file.
-```
+
+- ***macro.cls*** — TINA initiation macro.
+- ***macroauto.cls*** — TINA auto-landmarking setup macro.
+- ***macromodule.cls*** — TINA auto-landmarking 'module' setup example.
+
 ## *Background*
 The following macros are intended to be used as part of the [*TINA* Geometric Morphometrics Toolkit.](http://www.tina-vision.net/) 
 
