@@ -44,7 +44,7 @@ The `G-Reg` files should be prepared beforehand for each sample (eg. `GR_0000`) 
 ## License 
 
 - TINA libraries are distributed under the [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl.html) by their respective owners.
-- Unless otherwise stated, the materials presented in this package are distributed under the [GNU Lesser General Public License.](https://www.gnu.org/licenses/lgpl.html)
+- Unless otherwise stated, the materials presented in this package are distributed under the [MIT License.](https://opensource.org/licenses/MIT)
 
 
 ## Acknowlegements
