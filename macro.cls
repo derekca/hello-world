@@ -6,9 +6,11 @@
 //          in order to MANUALLY LANDMARK samples. When it is
 //          done, this macro automatically fills in the Macro
 //          Window with the filepath pointing to the Automatic
-//          Landmarking Macro and runs it. Therefore, comment
-//          out that line (below) in order to stay in the
-//          “Manual Lmk Mode” without running the next macro.
+//          Landmarking Macro, and can be set to run it if
+//          the appropriate line is un-commented from this
+//          file. Therefore, comment out that line (below) in
+//          order to stay in the “Manual Lmk Mode” without
+//          running the next macro.
 
 /////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////
