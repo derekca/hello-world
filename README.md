@@ -36,9 +36,7 @@ The `G-Reg` files should be prepared beforehand for each sample (eg. `GR_0000`) 
 ## *References*
 
 - [TINA download page](http://www.tina-vision.net/software.php)
-
 - [The TINA Developers Wiki](http://developer.tina-vision.net/wiki/index.php)
-
 - Bromiley PA, Ragheb H, Thacker NA. 2012. The TINA Geometric Morphometrics Toolkit. *Tina Memo No. 2010-007.* 1-82. [URL.](http://www.tina-vision.net/docs/memos/2010-007.pdf)
 
 ## *License*
