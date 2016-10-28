@@ -74,11 +74,11 @@ Landmark_Points.Input_format: 0
 Landmark_Points.Output_format: 2 
 
 //// FILEPATH:LANDMARKS.TXT
-Landmark_Points.Input_pathname: /mpistaff/Derek/TINA/landmarks.txt
+Landmark_Points.Input_pathname: /path/to/TINA/landmarks.txt
 Landmark_Points.Load
 
 //// FILEPATH:OUTPUT.TPS
-Landmark_Points.Output_pathname: /mpistaff/Derek/TINA/Export/TINA_Export.TPS
+Landmark_Points.Output_pathname: /path/to/TINA/Export/TINA_Export.TPS
 Manual_Landmark_Tool.3D_Tv_draw: 3 //// CHECKBOX-LANDMARKS
 Manual_Landmark_Tool.2D_Tv_draw: 1 //// CHECKBOX-ROTATE
 
@@ -97,7 +97,7 @@ Manual_Landmark_Tool.Tv: 2
 
 // ■ SET UP MACRO WINDOW TO RUN THE NEXT MACRO
 
-Macro_Tool.Macro_File: /mpistaff/Derek/TINA/macroauto
+Macro_Tool.Macro_File: /path/to/TINA/macroauto
 //Macro_Tool.run  //// COMMENT THIS LINE OUT, TO STAY IN MANUAL—LANDMARKING-MODE
 
 // ■ WINDOW LOCATIONS
