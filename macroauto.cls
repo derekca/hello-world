@@ -28,12 +28,12 @@ Landmark_Points.Output_format: 2
 
 // ■ AUTOMATCH EXPORT LOCATION
 
-Landmark_Points.Output_pathname: /mpistaff/Derek/TINA/AutoGR/GR_0000.TPS
+Landmark_Points.Output_pathname: /path/to/TINA/AutoGR/GR_0000.TPS
 Manual_Landmark_Tool.Automatch
 
 // ■ INPUT PREVIOUS DATABASE
 
-Automatic_Landmark_Point_Placement.Output:_ /mpistaff/Derek/TINA/AutoDB/DB_CHI_RATS
+Automatic_Landmark_Point_Placement.Output:_ /path/to/TINA/AutoDB/DB_CHI_RATS
 Automatic_Landmark_Point_Placement.Input_database
 Automatic_Landmark_Point_Placement.Point-based_reg._type: 0
 
@@ -46,7 +46,7 @@ Automatic_Landmark_Point_Placement.Greg_4 49
 
 // ■ SET UP MACRO WINDOW TO RUN THE AUTOLANDMARKING MODULES MACRO
 
-Macro_Tool.Macro_File: /mpistaff/Derek/TINA/macromodule
+Macro_Tool.Macro_File: /path/to/TINA/macromodule
 
 // ■ WINDOW LOCATIONS
 
