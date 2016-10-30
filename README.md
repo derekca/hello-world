@@ -5,14 +5,11 @@
 * [***I. General Overview***](#anchor-1)
   * *A. File List*
   * *B. Background*
-
 * [***II. File Descriptions***](#anchor-2)
   * *A. TINA Initiation Macro*
   * *B. TINA Auto-Landmarking Setup*
   * *B. TINA Auto-Landmarking Modules*
-
 * [***III. Resources***](#anchor-3)
-
 * [***IV. Author Notes***](#anchor-3)
   * *A. Author*
   * *B. Repository*
