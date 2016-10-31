@@ -1,6 +1,6 @@
 # TINA MACROS
 
-## Contents
+### *Contents*
 
 * [***I. General Overview***](#anchor-1)
   * *A. File List*
