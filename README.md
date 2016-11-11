@@ -68,6 +68,7 @@ The `G-Reg` files should be prepared beforehand for each sample (eg. `GR_0000`) 
 ## IV. Author Notes <a id="anchor-4"></a>
 
 - **Author:** Derek Caetano-Anolles
+- **Website:** [derekca.xyz](http://derekca.xyz)
 - **Repository:** [github.com/derekca](https://github.com/derekca)
 - **Licenses:** Unless otherwise stated, the materials presented in this package are distributed under the [MIT License.](https://opensource.org/licenses/MIT) *TINA* libraries are distributed under the [GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl.html) by their respective owners and are not affiliated with this work.
 - **Acknowledgements:** These materials are based upon work supported by the National Science Foundation Postdoctoral Research Fellowship in Biology under [Grant No. 1523549.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1523549) Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
