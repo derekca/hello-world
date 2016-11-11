@@ -18,7 +18,13 @@
 
 - - -
 
-## I. General Overview <a id="anchor-1"></a>
+
+
+
+
+<a id="anchor-1"></a>
+
+## I. General Overview
 
 ### *A. File List*
 
@@ -38,7 +44,10 @@ For users who use first start using *TINA*, it is necessary to utilize a "macro"
 
 
 
-## II. File Descriptions <a id="anchor-2"></a>
+
+<a id="anchor-2"></a>
+
+## II. File Descriptions
 
 ### *A. TINA Initiation Macro*
 
@@ -56,7 +65,10 @@ The `G-Reg` files should be prepared beforehand for each sample (eg. `GR_0000`) 
 
 
 
-## III. Resources <a id="anchor-3"></a>
+
+<a id="anchor-3"></a>
+
+## III. Resources
 
 - Bromiley PA, Ragheb H, Thacker NA. 2012. The TINA Geometric Morphometrics Toolkit. *Tina Memo No. 2010-007.* 1-82. [URL.](http://www.tina-vision.net/docs/memos/2010-007.pdf)
 - [TINA Download Page](http://www.tina-vision.net/software.php)
@@ -65,7 +77,9 @@ The `G-Reg` files should be prepared beforehand for each sample (eg. `GR_0000`) 
 
 
 
-## IV. Author Notes <a id="anchor-4"></a>
+<a id="anchor-4"></a>
+
+## IV. Author Notes
 
 - **Author:** Derek Caetano-Anolles
 - **Website:** [derekca.xyz](http://derekca.xyz)
